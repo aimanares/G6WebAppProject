@@ -66,12 +66,15 @@ Works on the login page of the system where the user can have a secure implement
 4.0 THE VIEWS, CONTROLLER, ROUTES AND MODELS. ERD FOR DATABASES TABLES. 
 
 4.1 Entity Relationship Diagram
+![alt text](https://github.com/aimanares/G6WebAppProject/blob/proposalImages/WebAppProject_ERD_4.jpg?raw=true)
 
 4.2 Sequence diagram- customer login
 
 4.3 Sequence Diagram - Choose Food
+![alt text](https://github.com/aimanares/G6WebAppProject/blob/proposalImages/chooseFood.png?raw=true)
 
 4.4 Sequence Diagram - Confirm Order
+![alt text](https://github.com/aimanares/G6WebAppProject/blob/proposalImages/Confirm Order.png?raw=true)
 
 4.5 Sequence Diagram - Deliver
 
